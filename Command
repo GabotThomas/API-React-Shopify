@@ -1,0 +1,2 @@
+https://letstrainprotoype.myshopify.com/admin/oauth/authorize?client_id=6b793ff70bc1e9c6b3bf148a820dc4a6&scope=write_products,write_customers,write_draft_orders,read_script_tags,write_script_tags&redirect_uri=https://letstrainparis.herokuapp.com/&state=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
+auth?shop=letstrainprotoype.myshopify.com
